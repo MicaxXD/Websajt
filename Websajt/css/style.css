@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: white;
+    height: 60px;
+    font-size: 10px;
+    direction: ltr;
+    color: white;
+    text-decoration: none;
+}
+.nav-items {
+    margin-left: 10px;
+    list-style: none;
+    color: white;
+    text-decoration: transparent;
+}
+
+.hero {
+    margin-top: 100px;
+    background-image: url('../images/images.jpg');
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+
+.hero h1 {
+    font-size: 52px;
+}
+
+.hero a {
+    background-color: white;
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    transition: 0.2s;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: lightcyan;
+}
